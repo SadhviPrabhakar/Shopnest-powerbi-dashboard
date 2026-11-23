@@ -4,13 +4,13 @@ An interactive Power BI dashboard that analyses sales, ratings, payments and del
 
 Dashboard
 
-Business questions answered
-Which product categories and states drive the most sales?
-Which categories have the highest and lowest customer ratings?
-How do delayed orders compare with on-time orders each month?
-Which payment methods do customers use?
-How do sales change by quarter and by year?
-Key insights
+*Business questions answered:
+1.Which product categories and states drive the most sales?
+2.Which categories have the highest and lowest customer ratings?
+3.How do delayed orders compare with on-time orders each month?
+4.Which payment methods do customers use?
+5.How do sales change by quarter and by year?
+*Key insights
 Total sales are 13.59M with an average rating of 4.07.
 The top three categories (health_beauty 1.3M, watches_gifts 1.2M, bed_bath_table 1.0M) bring in about a quarter of all sales.
 Sao Paulo (SP) is the biggest state by a wide margin (about 5M), so sales depend heavily on one region.
